@@ -25,7 +25,7 @@
               <a class="btn btn-primary" href="{{route('invoice.index')}}"><i class="fa fa-edit"></i> Manage Invoice</a>
         </div>
 
-         <div class="row">
+         <div class="row mt-2">
              <div class="clearix"></div>
             <div class="col-md-12">
                 <div class="tile">
